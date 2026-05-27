@@ -1,2 +1,2 @@
-# Atividade-Integradora---Programa-o-Avan-ada-
+# Atividade-Integradora-Programacao-Avancada-
 AN OBJECT-ORIENTED FRAMEWORK FOR VIRTUAL DIAGNOSIS
